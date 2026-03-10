@@ -9,14 +9,24 @@ Este é um projeto simples de calculadora desenvolvido em Python, criado como pa
 - Divisão (com tratamento de erro para divisão por zero)
 
 ## Como usar
-1. Execute o arquivo `pythonteste.py`
-2. Escolha a operação desejada (1 a 4)
-3. Digite os dois números
-4. Veja o resultado
+================================
+CALCULADORA SIMPLES
+================================
+1 - Somar
+2 - Subtrair
+3 - Multiplicar
+4 - Dividir
+================================
+Escolha uma opção (1-4): 1
+Digite o primeiro número: 10
+Digite o segundo número: 5
+
+✅ Resultado: 10.0 + 5.0 = 15.0
+================================
 
 ## Tecnologias
 - Python 3
 - VS Code
 
 ## Autor
-[Elpidio Emanuel](https://github.com/emanuelelipidio8-lang)
+[Elpidio Emanuel](https://github.com/emanuelelipidio8-lang) https://www.linkedin.com/in/elpidio-emanuel-200824254/
